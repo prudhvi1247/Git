@@ -4,5 +4,3 @@ hyderabad
 delhi
 pune
 kolkata
-jammu
-goa
